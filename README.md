@@ -1,1 +1,1 @@
-# django_k8s
+# Deploy Django with minikube
